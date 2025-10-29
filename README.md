@@ -65,6 +65,4 @@ Running locally presents unique challenges compared to the course's cloud-based 
 - **Structured output:** Not all local models are equally proficient at reliably generating JSON output. Some open-source models may require more explicit prompting to ensure they produce the correct format for tool use. If a model is consistently failing, try pulling a different one from Ollama's library. 
 
 
-test
-
 
